@@ -23,7 +23,7 @@ bmi          | Body mass index (weight in kg/(height in m)^2)
 diab_pred    | Diabetes pedigree function
 | age          | Age (years)
 skin       
-| diabetes     | Class variable (0 or 1) 268 of 768 are 1, the others are 0
+| diabetes     | Outcome class
 
 ## Algorithms
 3 different algorithms has been used to do the prediction. All are tree based ensemble models. Below given are the algorithms along with their corresponding accuracy levels:
